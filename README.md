@@ -16,7 +16,7 @@ The MG90S is connected to the ESP32 as follows:
 
 ### Wiring
 
-![ESP32 and MG90S wiring]([mg90s-esp32.jpg](https://github.com/HugoTheJanitor/ESP32-MG90S-control/blob/main/Photos/ESP32-Wroom%20and%20MG90S.png))
+![ESP32 and MG90S wiring](https://github.com/HugoTheJanitor/ESP32-MG90S-control/blob/main/Photos/ESP32-Wroom%20and%20MG90S.png)
 
 ## How It Works
 
